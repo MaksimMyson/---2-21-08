@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: #a1b4c7;
+}
+.red{
+    color: red;
+    background-color:#c4caca ;
+    
+}
+.clubs{
+    background-color: #c4caca;
+}
+.spades {
+    background-color:#c4caca ;
+}
+.hearts{
+    color: red;
+    background-color:#c4caca;
+}
+.diams {
+    background-color: #c4caca;
+    color: red;
+}
